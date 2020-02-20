@@ -92,8 +92,8 @@ body {
 }
 
 .img-result {
-    max-width: 425px;
-    max-height: 283px;
+    max-width: 70%;
+    max-height: 70%;
 }
 
 .contenido {
